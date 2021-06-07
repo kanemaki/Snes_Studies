@@ -13,3 +13,14 @@ export ROMNAME := mapScroll
 all: bitmaps $(ROMNAME).sfc
 
 clean: cleanBuildRes cleanRom cleanGfx
+
+#---------------------------------------------------------------------------------
+bg_L1.map: bg_L1.png
+	@echo convert map bitmap ... $(notdir $@)
+	$(GFXCONV) -pc16 -n -gs8 -pe0 -fpng -m $<
+
+mario.pic: mario.png
+	@echo convert sprite bitmap ... $(notdir $@)
+	$(GFXCONV) -gs16 -pc16 -po16 -fpng -n $<
+    
+bitmaps : bg_L1.map mario.pic 
