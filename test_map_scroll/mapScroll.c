@@ -14,7 +14,7 @@ unsigned short xloc,yloc,flipx,frame,frameidx,flip;
 
 const char sprTiles[4]=
 {
-    0,2,4, 6,
+    0,2,4, 6
 }; 
 //---------------------------------------------------------------------------------
 int main(void) {
