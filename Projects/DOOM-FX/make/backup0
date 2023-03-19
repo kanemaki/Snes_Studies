@@ -1,3 +1,0 @@
-Echo "Backing up RL to HD1:RLB..."
-RLVers0
-Copy RL: HD1:RLB ALL Quiet

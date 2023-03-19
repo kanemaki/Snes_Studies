@@ -46,4 +46,5 @@
     "C_Cpp.vcFormat.indent.caseContents": false,
     "C_Cpp.vcFormat.indent.preserveWithinParentheses": true,
     "C_Cpp.vcFormat.newLine.closeBraceSameLine.emptyFunction": true,
+    "cmake.sourceDirectory": "c:\\Users\\djkan\\source\\repos\\Snes_Studies\\first_game\\src",
 }
