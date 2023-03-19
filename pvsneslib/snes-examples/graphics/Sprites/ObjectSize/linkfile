@@ -1,8 +1,0 @@
-[objects]
-ObjectSize.obj
-data.obj
-hdr.obj
-d:\a\pvsneslib\pvsneslib\pvsneslib\pvsneslib\lib/crt0_snes.obj
-d:\a\pvsneslib\pvsneslib\pvsneslib\pvsneslib\lib/libc.obj
-d:\a\pvsneslib\pvsneslib\pvsneslib\pvsneslib\lib/libm.obj
-d:\a\pvsneslib\pvsneslib\pvsneslib\pvsneslib\lib/libtcc.obj
