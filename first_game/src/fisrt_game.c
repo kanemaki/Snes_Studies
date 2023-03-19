@@ -3,6 +3,7 @@
 Alexandre Florentino
 kanemaki@gmail.com
 ---------------------------------------------------------------------------------*/
+#include <snes.h>
 
 extern char tilfont, palfont;
 
