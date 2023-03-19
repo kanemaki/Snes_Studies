@@ -28,13 +28,13 @@ int main(void)
     bgSetDisable(2);
 
     // Draw a wonderful text :P
-    consoleDrawText(10, 10, "Alexandre Florentino!");	
-    consoleDrawText(10, 10,       "_   _");
-	consoleDrawText(10, 10,      "((___))");
-	consoleDrawText(10, 10,      "[ x x ]");
-	consoleDrawText(10, 10,       "\   /");
-	consoleDrawText(10, 10,       "(' ')");
-	consoleDrawText(10, 10,        "(U)");
+    consoleDrawText(10, 10, "Alexandre Florentino!");
+    consoleDrawText(10, 10, "_   _");
+    consoleDrawText(10, 10, "((___))");
+    consoleDrawText(10, 10, "[ x x ]");
+    consoleDrawText(10, 10, "\\   /");
+    consoleDrawText(10, 10, "(' ')");
+    consoleDrawText(10, 10, "(U)");
     consoleDrawText(6, 14, "WELCOME TO PVSNESLIB");
     consoleDrawText(3, 18, "HTTPS://WWW.PORTABLEDEV.COM");
 
